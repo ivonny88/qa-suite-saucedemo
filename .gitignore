@@ -1,0 +1,9 @@
+New-Item .gitignore
+```
+report.html
+reports/
+__pycache__/
+.pytest_cache/
+*.pyc
+allure-results/
+
